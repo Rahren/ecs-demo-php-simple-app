@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>TWE CI/CD</h1>
-                <h2>Congratulations</h2>
+                <h1>TWE CI/CD workshop</h1>
+                <h2>Congratulations!</h2>
                 <p>Your TWE application is now running on a Docker container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
